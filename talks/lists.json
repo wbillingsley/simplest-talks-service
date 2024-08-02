@@ -1,0 +1,17 @@
+[
+    { 
+        "series": "Science Research Seminars", 
+        "short": "srs",
+        "files": [ "talks/srs.hjson" ], 
+        "archived": [],
+        "timezone": "Australia/Sydney"
+    },
+
+    { 
+        "series": "Teaching and Learning Seminars", 
+        "short": "tls",
+        "files": [ "talks/tls.hjson" ],
+        "archived": [],
+        "timezone": "Australia/Sydney"
+    }
+]

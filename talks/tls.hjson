@@ -1,0 +1,46 @@
+[
+
+    { 
+        "title": "Why we should never teach Spifflicators",
+        "speaker": "Ann Spoffy",
+        "speakerUrl": "https://example.com/ann_spoffy",
+        "date": "2024-09-21",
+        "start": "12:00",
+        "duration": "1h",
+        "abstract": 
+          '''
+          Ann Spoffy has hated spifflicators with a passion since she was a child.
+          They're not spiffy. They're not spoffy. They're not even licky. We should never teach them.
+          ''',
+        "where": [
+            "https://example.com/zoomlink",
+            "Spoffy Seminar Room"
+        ]
+    },
+
+
+    { 
+        "title": "Nobody turns up to my classes",
+        "speaker": "I. M.  Lonely",
+        "speakerUrl": "https://example.com/chris_lonely",
+        "date": "2024-09-23",
+        "start": "13:00",
+        "duration": "1h30m",
+        "abstract": 
+          '''
+          Most of the time I find myself talking to an empty room and although some
+          people have said this is because of my very complicated way of putting
+          everything into an hour long sentence, I am not convinced that this 
+          proposition is true and think that really people have far more attention than that
+          and are quite able to follow a talk that has only commas and no full stops.
+          ''',
+        "where": [
+            "https://example.com/zoomlink",
+            "Tiny Lecture Theatre"
+        ]
+    },
+
+    
+    "end"
+
+]
