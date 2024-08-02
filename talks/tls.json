@@ -1,0 +1,19 @@
+[
+
+    { 
+        "title": "Why we should never teach Spifflicators",
+        "speaker": "Ann Spoffy",
+        "speakerUrl": "https://example.com/ann_spoffy",
+        "start": "12:00",
+        "duration": "1h",
+        "where": [
+            "https://example.com/zoomlink",
+            "Spoffy Seminar Room"
+        ]
+    },
+
+
+    
+    "end"
+
+]

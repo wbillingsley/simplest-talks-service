@@ -1,0 +1,19 @@
+[
+
+    { 
+        "title": "Spifflicators are more effective than Spofflicators",
+        "speaker": "Joe Spiffy",
+        "speakerUrl": "https://example.com/joe_spiffy",
+        "start": "12:00",
+        "duration": "1h",
+        "where": [
+            "https://example.com/zoomlink",
+            "Spiffy Seminar Room"
+        ]
+    },
+
+
+    
+    "end"
+
+]
