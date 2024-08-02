@@ -2,7 +2,7 @@
     { 
         "series": "Science Research Seminars", 
         "short": "srs",
-        "files": [ "srs.json" ], 
+        "files": [ "talks/srs.hjson" ], 
         "archived": [],
         "timezone": "Australia/Sydney"
     },
@@ -10,7 +10,7 @@
     { 
         "series": "Teaching and Learning Seminars", 
         "short": "tls",
-        "files": [ "tls.json" ],
+        "files": [ "talks/tls.hjson" ],
         "archived": [],
         "timezone": "Australia/Sydney"
     }

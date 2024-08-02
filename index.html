@@ -14,11 +14,13 @@
 
     <!-- Material symbols -->
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+    <!-- Polyfill Intl.DurationFormat, its dependencies & `en` locale data -->
+<script src="https://polyfill-fastly.io/v3/polyfill.min.js?features=Intl.DurationFormat"></script>
 
   </head>
   <body>
-    <body style="min-height: calc(100vh); background: #444; margin: 0;">
-      <div id="app" style="margin: auto; max-width: 480px; min-height: 660px; background: white; padding-bottom: 2em;"></div>
+    <body style="min-height: calc(100vh); margin: 0;">
+      <div id="app"></div>
       <script type="module" src="main.js"></script>
     </body>
   </body>

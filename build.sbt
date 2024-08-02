@@ -20,13 +20,14 @@ lazy val root = project.in(file("."))
     Compile / fullLinkJSOutput / aggregate := false,
   )
 
-lazy val common = crossProject(JVMPlatform, JSPlatform).in(file("common"))
+lazy val common = crossProject(JVMPlatform, JSPlatform)
+  .crossType(CrossType.Pure).in(file("common"))
   .settings(
 
     libraryDependencies ++= Seq(
-        "io.circe" %% "circe-core" % circeVersion,
-        "io.circe" %% "circe-generic" % circeVersion,
-        "io.circe" %% "circe-parser" % circeVersion
+        "io.circe" %%% "circe-core" % circeVersion,
+        "io.circe" %%% "circe-generic" % circeVersion,
+        "io.circe" %%% "circe-parser" % circeVersion
 
 //      "org.scala-js" %% "scalajs-stubs" % "1.1.0" % "provided"
     )

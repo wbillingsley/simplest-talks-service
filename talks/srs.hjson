@@ -1,0 +1,25 @@
+[
+
+    { 
+        "title": "Spifflicators are more effective than Spofflicators",
+        "speaker": "Joe Spiffy",
+        "speakerUrl": "https://example.com/joe_spiffy",
+        "date": "2024-09-21",
+        "start": "12:00",
+        "duration": "1h",
+        "abstract": 
+        '''
+        Joe Spiffy has always loved spifflicators.
+        They're just spiffier than spofflicators. Hear the latest research on the greatness of spifflicators.
+        ''',
+        "where": [
+            "https://example.com/zoomlink",
+            "Spiffy Seminar Room"
+        ]
+    },
+
+
+    
+    "end"
+
+]
